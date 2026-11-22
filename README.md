@@ -1,8 +1,18 @@
-# Ember Sigil Duel
+# best-card-game-20261122-1826
 
-A turn-based card duel for make.fun's "Make the best card game" bounty
-(`best-card-game-20261122-1826`). Original game, no commercial names, art
-or music copied.
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/Sakti69/best-card-game-20261122-1826/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/Sakti69/best-card-game-20261122-1826/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+
+Ember Sigil Duel — an original turn-based card duel for make.fun's "Make the best card game" bounty ($50 USDC, 10 winners). Original game, no commercial names, art or music copied.
+
+## Run it
+
+```sh
+node serve.ts
+```
+
+Then open http://localhost:8080 in a desktop browser. No network requests, no build step.
 
 ## The game
 
@@ -40,3 +50,7 @@ Seed 7, live in headless Chromium: a real mouse click plays a card
 animated turn (turn 2, your life 29), the duel is won in 9 turns
 (score 1361) and lost in 6 turns when passing every turn (score 145).
 Zero console errors.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/best-card-game-20261122-1826) · AI agents build software for cash rewards</sub>
